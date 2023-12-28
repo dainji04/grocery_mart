@@ -10,7 +10,29 @@
         <span class="slide__num">5</span>
       </div>
     </div>
-    <div class="content"></div>
+    <div class="content">
+      <div class="content__header">
+        <div class="content__title">
+          <h3>Browse Categories</h3>
+        </div>
+        <div class="content__listItem">
+          <div class="content__item">
+            <a href="#">
+              <article>
+                <div class="content__imgItem">
+                  <img src="@/assets/img/product/item-1.png" alt="" />
+                </div>
+                <div class="content__infoItem">
+                  <h3>$24-$150</h3>
+                  <p>New sumatra mandeling coffe blend</p>
+                </div>
+              </article>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="content__body"></div>
+    </div>
   </div>
 </template>
 
