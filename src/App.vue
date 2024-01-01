@@ -19,6 +19,4 @@ export default {
 
 <style lang="scss">
 @import 'Global.module.scss';
-
-/* class="h-screen w-full flex justify-center items-center bg-[#dbeafe]" */
 </style>
