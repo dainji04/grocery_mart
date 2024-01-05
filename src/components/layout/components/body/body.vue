@@ -68,7 +68,8 @@
       </div>
       <div class="content__body">
         <div class="body__title">
-          <h3 class="heading">Total LavAzza 1320</h3>
+          <h3 class="body__heading">Total LavAzza 1320</h3>
+          <button class="body__filter">Filter <img src="@/assets/icons/filter.svg" alt="" /></button>
         </div>
         <div class="items">
           <div class="item">
@@ -79,12 +80,280 @@
                   <img src="@/assets/icons/heart.svg" alt="" />
                 </button>
               </div>
-              <h3 class="item__heading"></h3>
-              <p class="item__subHeading"></p>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
               <div class="item__feedback">
                 <span class="item__price">$47.00</span>
-                <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
-                <span class="item__score">4.3</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
+              </div>
+            </article>
+          </div>
+          <div class="item">
+            <article class="item__productCard">
+              <div class="item__product">
+                <img src="@/assets/img/product/item-1.png" alt="product-card_thumb" />
+                <button class="item__heartIcon">
+                  <img src="@/assets/icons/heart.svg" alt="" />
+                </button>
+              </div>
+              <h3 class="item__heading">Coffee Beans - Espresso Arabica and Robusta Beans</h3>
+              <p class="item__subHeading">Lavazza</p>
+              <div class="item__feedback">
+                <span class="item__price">$47.00</span>
+                <div class="item__rate">
+                  <img src="@/assets/icons/star.svg" alt="star" class="item__star" />
+                  <span class="item__score">4.3</span>
+                </div>
               </div>
             </article>
           </div>
