@@ -1,0 +1,146 @@
+:root {
+  --bg-color: #eee;
+  --bg-btn: #ffb700;
+}
+
+#footer {
+  padding: 50px 0;
+  background: var(--bg-color);
+}
+.footer {
+  width: 1140px;
+  display: grid;
+  grid-template-columns: 2fr 1.3fr 1fr 1fr 1.5fr;
+  margin: 0 auto 50px auto;
+  padding: 0 15px;
+  gap: 60px;
+  &__logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  &__heading {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 145.455%;
+  }
+  &__introduce {
+    font-size: 1.4rem;
+    line-height: 1.5;
+  }
+  &__contactEmail {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  &__contactEmail > p {
+    margin-top: 40px;
+    line-height: 1.4;
+  }
+  &__typeEmail {
+    display: flex;
+    gap: 10px;
+    padding-bottom: 16px;
+  }
+  &__typeEmail > input {
+    width: 100%;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 2px solid #d2d1d6;
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+  &__typeEmail > button {
+    font-size: 1.8rem;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 0 20px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-btn);
+    border-radius: 6px;
+    color: #171c28;
+    user-select: none;
+  }
+  &__list {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  &__list > p:hover {
+    color: #0071dc;
+    cursor: pointer;
+  }
+  &__list > div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  &__list a {
+    font-size: 1.4rem;
+    line-height: 1.4;
+  }
+  &__bottom {
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto 50px auto;
+    padding: 0 15px;
+  }
+  &__social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  &__social-btn {
+    fill: #fff;
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: grayscale(50%);
+    transition: translate, filter;
+    transition-duration: 0.3s;
+    &.facebook {
+      background-color: #4863a9;
+    }
+    &.youtube {
+      background-color: #f00;
+    }
+    &.tiktok {
+      background-color: #000;
+    }
+    &.twitter {
+      background-color: #4999e6;
+    }
+    &.linkedin {
+      background-color: #2f71ab;
+    }
+  }
+  _social-btn:hover {
+    filter: grayscale(0);
+    translate: 0 -3px;
+  }
+  &__social-btn > img {
+    width: 14px;
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7482%) hue-rotate(72deg) brightness(99%)
+      contrast(99%);
+  }
+}
+// animations
+// @keyframes translate {
+//   0% {
+//     padding-bottom: 0;
+//   }
+//   100% {
+//     padding-bottom: 10px;
+//   }
+// }
