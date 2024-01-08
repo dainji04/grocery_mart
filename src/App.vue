@@ -1,9 +1,8 @@
 <template>
   <div id="app">
-    <!-- <DefaultHeader />
+    <DefaultHeader />
     <BodyContent />
-    <Footer /> -->
-    <login />
+    <Footer />
   </div>
 </template>
 
@@ -12,6 +11,8 @@ import DefaultHeader from '@/components/layout/components/header/header.vue';
 import BodyContent from '@/components/layout/components/body/body.vue';
 import Footer from '@/components/layout/components/footer/footer.vue';
 import login from '@/components/templates/login/login-form.vue';
+import signIn from '@/components/templates/sign-in/sign-in.vue';
+
 export default {
   name: 'app',
   components: {
@@ -19,6 +20,7 @@ export default {
     BodyContent,
     Footer,
     login,
+    signIn,
   },
 };
 </script>

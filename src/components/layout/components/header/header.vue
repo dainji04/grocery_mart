@@ -34,7 +34,7 @@
           </ul>
         </div>
         <div class="Sign">
-          <a href="#">Sign In</a>
+          <a href="@/components/layout/components/header/header.vue">Sign In</a>
           <a href="#">Sign Up</a>
         </div>
       </div>
