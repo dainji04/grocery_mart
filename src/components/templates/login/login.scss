@@ -82,6 +82,7 @@ input {
     font-weight: 700;
     line-height: 145.455%;
     gap: 15px;
+    user-select: none;
   }
   &__sign-up {
     margin-top: 50px;
@@ -94,6 +95,7 @@ input {
     margin-top: 10px;
     padding: 0 20px;
     color: #9e9da8;
+    text-align: center;
   }
   &__form-sign-up {
     margin-top: 30px;
@@ -189,7 +191,9 @@ input {
     font-size: 1.8rem !important;
   }
   &__question {
+    font-size: 1.8rem !important;
     padding-right: 5px;
+    opacity: 0.4;
   }
   &__have-a-account > a {
     color: #0071dc;

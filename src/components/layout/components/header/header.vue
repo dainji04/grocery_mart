@@ -34,8 +34,8 @@
           </ul>
         </div>
         <div class="Sign">
-          <a href="@/components/layout/components/header/header.vue">Sign In</a>
-          <a href="#">Sign Up</a>
+          <router-link to="/home/login">Sign In</router-link>
+          <router-link to="/home/register">Sign Up</router-link>
         </div>
       </div>
     </div>
