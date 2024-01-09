@@ -126,7 +126,7 @@
       background-color: #2f71ab;
     }
   }
-  _social-btn:hover {
+  &__social-btn:hover {
     filter: grayscale(0);
     translate: 0 -3px;
   }
@@ -136,12 +136,3 @@
       contrast(99%);
   }
 }
-// animations
-// @keyframes translate {
-//   0% {
-//     padding-bottom: 0;
-//   }
-//   100% {
-//     padding-bottom: 10px;
-//   }
-// }
